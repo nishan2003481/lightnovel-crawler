@@ -199,7 +199,7 @@ Simply fill out the environment variables and you get a running <b>Deploying</b>
 - First clone the repository:
 
 ```bash
-$ git clone https://github.com/dipu-bd/lightnovel-crawler
+$ git clone https://github.com/nishan2003841/lightnovel-crawler
 ```
 
 - Open command prompt inside of the project folder and install requirements:
