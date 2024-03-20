@@ -48,7 +48,7 @@ An app to download novels from online sources and generate e-books.
   - [Rejected sources](#rejected-sources)
   - [Supported output formats](#supported-output-formats)
 
-<a href="https://github.com/dipu-bd/lightnovel-crawler"><img src="res/lncrawl-icon.png" width="128px" align="right"/></a>
+<a href="https://github.com/nishan2003481/lightnovel-crawler"><img src="res/lncrawl-icon.png" width="128px" align="right"/></a>
 
 ## Installation
 
